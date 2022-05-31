@@ -12,15 +12,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
-global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
+global.owner = ['6281315017916']
+global.premium = ['6281315017916']
+global.ownername = 'Khalif'
+global.botname = 'Khalif BOTZ'
+global.packname = '© KhalifBOTZ'
 global.gc = 'https://bit.ly/3KMlmv2'
-global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.limitawal = '10'
+global.author = '@Khalif'
+global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
@@ -36,7 +36,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
